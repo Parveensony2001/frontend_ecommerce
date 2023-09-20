@@ -9,7 +9,6 @@ root.render(
     <App />
   </React.StrictMode>
 );
-git commit -m "first commit"
 git branch -M master
 git remote add origin https://github.com/Parveensony2001/Node_js_Important.git
 git push -u origin master
